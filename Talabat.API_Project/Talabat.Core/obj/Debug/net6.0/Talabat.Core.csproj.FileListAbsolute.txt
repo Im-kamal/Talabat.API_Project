@@ -1,0 +1,24 @@
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+C:\rout\APIs\Final\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+C:\rout\APIs\Final\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+C:\rout\APIs\Final\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+C:\rout\APIs\Final\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+C:\rout\APIs\Final\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\rout\APIs\Final\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+C:\rout\APIs\Final\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+C:\rout\APIs\Final\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+C:\rout\APIs\Final\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+C:\rout\APIs\Final\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+C:\rout\APIs\Final\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+C:\rout\APIs\Final\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll

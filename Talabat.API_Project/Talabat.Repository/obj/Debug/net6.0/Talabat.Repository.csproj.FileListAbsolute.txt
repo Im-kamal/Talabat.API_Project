@@ -1,0 +1,34 @@
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Services.dll
+C:\rout\APIs\Final Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Services.pdb
+C:\rout\APIs\Final\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+C:\rout\APIs\Final\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+C:\rout\APIs\Final\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\rout\APIs\Final\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+C:\rout\APIs\Final\Talabat.Repository\bin\Debug\net6.0\Talabat.Services.dll
+C:\rout\APIs\Final\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\rout\APIs\Final\Talabat.Repository\bin\Debug\net6.0\Talabat.Services.pdb
+C:\rout\APIs\Final\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+C:\rout\APIs\Final\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\rout\APIs\Final\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+C:\rout\APIs\Final\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+C:\rout\APIs\Final\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+C:\rout\APIs\Final\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+C:\rout\APIs\Final\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+C:\rout\APIs\Final\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+C:\rout\APIs\Final\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+C:\rout\APIs\Final\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
